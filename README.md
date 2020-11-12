@@ -3,6 +3,7 @@ This repository is built for kickstarting your typescript project with eslint in
 
 ## GitHub Actions Status
 **Warning :** Make sure you change this badge locations and names before you use it on your repository!  
+**Warning :** Please don't forget to remove `.github/workflows/upgrade.yml`
 
 | Name                      | Status                                                                                                         |
 |---------------------------|----------------------------------------------------------------------------------------------------------------|
