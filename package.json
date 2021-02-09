@@ -5,7 +5,7 @@
   "main": "dist/",
   "repository": "https://github.com/Alex4386/typescript-kickstart",
   "author": "Alex4386 <psh010209@gmail.com>",
-  "license": "MIT",
+  "license": "WTFPL",
   "dependencies": {
     "typescript": "^4.0.5"
   },
