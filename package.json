@@ -28,7 +28,7 @@
     "debug": "ts-node ./src/",
     "build": "tsc",
     "start": "tsc && node ./dist/",
-    "lint": "eslint '*/**/*.{js,ts,tsx}' --quiet --fix"
+    "lint": "eslint \"*/**/*.{js,ts,tsx}\" --quiet --fix"
   },
   "husky": {
     "hooks": {
